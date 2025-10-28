@@ -1,6 +1,11 @@
+# Python
 __pycache__/
 *.pyc
 .venv/
+
+# OS/editor
 .DS_Store
+
+# App secrets / caches
 .env
 .cache-spotify-matrix

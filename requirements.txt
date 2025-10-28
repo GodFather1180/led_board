@@ -1,0 +1,6 @@
+rgbmatrix
+Pillow
+python-dotenv
+requests
+spotipy
+Flask
